@@ -10,7 +10,7 @@
 #### Technical Knowledge
 Explain the Virtual DOM, and give a pragmatic overview of how React renders it to the DOM.
 
-Answer:
+##### Answer:
 The Virtual DOM is an interesting concept; it’s a complex idea that boils down into a much simpler algorithm.
 
 In React, if we create simple ES6 class and print it out, we have a function (as all functions can be used as a constructor in JavaScript):
@@ -113,6 +113,15 @@ More resources:
 [Difference Between Virtual DOM and DOM](http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
 #### Technical Whiteboarding
 Given a text file and a word, find the positions that the word occurs in the file. We'll be asked to find the positions of many words in the same file.
+
+Example (don't give until they clarify):
+example.txt:
+hi
+hello
+hey
+hi
+
+solution_function(example.txt, "hi") => [0, 3]
 
 Solution:
 
