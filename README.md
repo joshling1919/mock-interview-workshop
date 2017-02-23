@@ -1,9 +1,9 @@
-Welcome to the Mock Interview Workshop repo!
+### Welcome to the Mock Interview Workshop repo!
 
 If this is your first time here, please:
-1. Go to your own 'Job Search' Google Drive
-2. Create a new "Mock Interview Workshop" Folder
-3. Make a copy of [this scorecard](https://docs.google.com/spreadsheets/d/1ROq762L9yXmPnMllckXnuPzB9ScA6BN0Ev_XceBpalY/edit#gid=0) into the "Mock Interview Workshop" folder in your Google Drive and title it with the current date. (i.e. "2/23/2017")
+* Go to your own 'Job Search' Google Drive
+* Create a new "Mock Interview Workshop" Folder
+* Make a copy of [this scorecard](https://docs.google.com/spreadsheets/d/1ROq762L9yXmPnMllckXnuPzB9ScA6BN0Ev_XceBpalY/edit#gid=0) into the "Mock Interview Workshop" folder in your Google Drive and title it with the current date. (i.e. "2/23/2017")
 
 Every time you attend:
 * Go to the "Mock Interview Workshop" folder in your "Job Search" Google Drive and make a copy of [this scorecard](https://docs.google.com/spreadsheets/d/1ROq762L9yXmPnMllckXnuPzB9ScA6BN0Ev_XceBpalY/edit#gid=0) and title it with the current date.
