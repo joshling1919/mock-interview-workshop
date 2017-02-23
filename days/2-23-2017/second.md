@@ -1,5 +1,6 @@
 ## Second Interview
 
+*Reminder: Grade your partner throughout the interview*
 #### Personal Pitch
 - Walk me through your background
 
@@ -15,14 +16,12 @@ Detailed explanation of Redux:
 #### Technical Whiteboarding
 Given a sorted list of words, find the longest compound word in the list that is constructed by concatenating the words in the list.
 
-Example (wait for them to ask for it):
-If the input list is: [‘cat’, ‘cats’, ‘catsdogcats’, ‘catxdogcatsrat’, ‘dog’, ‘dogcatsdog’, ‘hippopotamuses’, ‘rat’, ‘ratcat’, ‘ratcatdog’, ‘ratcatdogcat’], then the longest compound word is ‘ratcatdogcat’ with 12 letters. Note that the longest individual words are ‘catxdogcatsrat’ and ‘hippopotamuses’ with 14 letters, but they’re not fully constructed by other words. Former one has an extra ‘x’ letter, and latter is an individual word by itself not a compound word.
-
-Solution:
-
+Example (wait for them to ask for it):  
+If the input list is:   
 ```ruby
-
+[‘cat’, ‘cats’, ‘catsdogcats’, ‘catxdogcatsrat’, ‘dog’, ‘dogcatsdog’, ‘hippopotamuses’, ‘rat’, ‘ratcat’, ‘ratcatdog’, ‘ratcatdogcat’]
 ```
+then the longest compound word is ‘ratcatdogcat’ with 12 letters. Note that the longest individual words are ‘catxdogcatsrat’ and ‘hippopotamuses’ with 14 letters, but they’re not fully constructed by other words. Former one has an extra ‘x’ letter, and latter is an individual word by itself not a compound word.
 
 
 *Source and detailed solution:* http://www.ardendertat.com/2012/06/15/programming-interview-questions-28-longest-compound-word/

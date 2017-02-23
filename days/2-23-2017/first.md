@@ -1,5 +1,6 @@
 ## First Interview
 
+*Reminder: Grade your partner throughout the interview*
 #### Personal Pitch
 - Tell me about your background
 
@@ -114,7 +115,7 @@ More resources:
 #### Technical Whiteboarding
 Given a text file and a word, find the positions that the word occurs in the file. We'll be asked to find the positions of many words in the same file.
 
-Example (don't give until they clarify):
+Example (don't give unless they ask clarifying questions):  
 example.txt:  
 hi  
 hello  
