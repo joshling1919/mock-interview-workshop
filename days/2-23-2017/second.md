@@ -16,8 +16,8 @@ Detailed explanation of Redux:
 #### Technical Whiteboarding
 Given a sorted list of words, find the longest compound word in the list that is constructed by concatenating the words in the list.
 
-Example (wait for them to ask for it):  
-If the input list is:   
+Example (wait for them to ask for it):
+If the input list is:
 ```ruby
 [‘cat’, ‘cats’, ‘catsdogcats’, ‘catxdogcatsrat’, ‘dog’, ‘dogcatsdog’, ‘hippopotamuses’, ‘rat’, ‘ratcat’, ‘ratcatdog’, ‘ratcatdogcat’]
 ```
@@ -25,3 +25,19 @@ then the longest compound word is ‘ratcatdogcat’ with 12 letters. Note that 
 
 
 *Source and detailed solution:* http://www.ardendertat.com/2012/06/15/programming-interview-questions-28-longest-compound-word/
+
+Ruby solution:
+```ruby
+class Node
+  attr_accessor :children
+  def initialize(letter= nil, isTerminal= false)
+    @letter = letter
+    @children = {}
+    @isTerminal = isTerminal
+  end
+end
+
+class Trie
+
+end
+```
