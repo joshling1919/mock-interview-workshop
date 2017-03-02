@@ -25,19 +25,3 @@ then the longest compound word is ‘ratcatdogcat’ with 12 letters. Note that 
 
 
 *Source and detailed solution:* http://www.ardendertat.com/2012/06/15/programming-interview-questions-28-longest-compound-word/
-
-Ruby solution:
-```ruby
-class Node
-  attr_accessor :children
-  def initialize(letter= nil, isTerminal= false)
-    @letter = letter
-    @children = {}
-    @isTerminal = isTerminal
-  end
-end
-
-class Trie
-
-end
-```

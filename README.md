@@ -16,4 +16,10 @@ Every time you attend:
  - Sign in with the current date, your full name, and your score card url for that day.
 * Before you start the mock interviewing, __**share editing privileges for your scorecard**__ with your partner for the day so that they can give you feedback.
 
-#### To contribute problems:
+#### For more practice problems:
+* Visit [App Academy's `interview-questions` repo][interview-questions]
+
+
+
+
+[interview-questions]: https://github.com/appacademy/interview-questions
