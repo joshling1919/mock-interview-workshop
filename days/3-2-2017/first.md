@@ -13,12 +13,15 @@ And instead focus much more on the second two parts of:
 3. Your technical skills/accomplishments.
 4. How you can contribute to their team/what specifically makes you want to work there.
 #### Behavioral
-
+1. Tell me about a time you failed and how you handled it.
+2. What role do you usually play in a team?
 
 #### Technical Knowledge
-What does it mean to be RESTful?
+Tell me about the MVC architecture.
+
 
 ##### Answer:
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 
 #### Technical Whiteboarding
 Imagine a robot sitting on the upper left corner of a grid with `r` rows and `c` columns. The robot can only move in two directions, right and down, but certain cells are "off limits" such that the robot cannot step on them. Design an algorithm to find a path for the robot from the top left to the bottom right.
@@ -110,3 +113,4 @@ def get_path_helper(maze, row, col, path, failed_points)
   false
 end
 ```
+Time complexity: The algorithm will now take O(rc) time because we hit each cell just once.
